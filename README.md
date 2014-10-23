@@ -1,4 +1,4 @@
 linux-indexer
 =============
 
-Linux local filesystem indexer with web frontend.
+Project webpage at http://hrvojesolc.github.io/linux-indexer/
